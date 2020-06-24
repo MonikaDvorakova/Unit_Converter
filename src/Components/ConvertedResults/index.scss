@@ -1,0 +1,19 @@
+.resultBoxes {
+  background-color: #fff;
+  border: 1px soplid #999;
+  box-shadow: 0 0 5px 0 #000;
+  padding: 30px;
+  overflow: auto;
+  margin: 80px;
+
+  .box {
+    font-size: 30px;
+    text-align: center;
+    width: 250px;
+    float: left;
+    background-color: #fff;
+    border: 1px solid grey;
+    padding: 30px;
+    margin: 10px 10px;
+  }
+}
